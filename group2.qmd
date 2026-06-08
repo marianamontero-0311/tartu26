@@ -14,7 +14,7 @@ format:
 - Mariana Montero 🇨🇷 - Researcher / Micromobility
 - Leonardo Moreira 🇧🇷 - Researcher / Big Data for transport planning
 - Juan Arquero 🇪🇸 - Researcher / Route Planning Algorithms
-.
+
 ## Research Interests
 
 What are the key themes or datasets your team is interested in exploring?
@@ -47,7 +47,7 @@ Elevation map contaning data of Pyrenees
 ![](imgs/group2/3.png){fig-align="center"}
 
 ## Expected Outputs IV
-
+.
 Symmetrical flow maps comparing hourly trip volumes crossing the borders and within Spain.
 
 ![](imgs/group2/4.png){fig-align="center"}
