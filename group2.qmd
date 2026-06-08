@@ -14,7 +14,7 @@ format:
 - Mariana Montero 🇨🇷 - Researcher / Micromobility
 - Leonardo Moreira 🇧🇷 - Researcher / Big Data for transport planning
 - Juan Arquero 🇪🇸 - Researcher / Route Planning Algorithms
-
+.
 ## Research Interests
 
 What are the key themes or datasets your team is interested in exploring?
